@@ -4,9 +4,3 @@ ArchMC|wss://mc.arch.lol|Largest network with Oneblock, Survival, Creative, PvP|
 CarrotCraft Network|wss://eagler.carrot-craft.org|Classic Survival & Skyblock—1.12.2 focused|https://topeaglerservers.com/img/carrotcraft-icon.png|Survival,Skyblock|1.12.2
 WebMC|wss://play.webmc.fun|Oneblock-focused server with extra minigame modes|https://topeaglerservers.com/img/webmc-icon.png|Oneblock,Survival,Minigames|1.12.2
 Hyper Network|wss://eag.hyper-network.net|Survival & Minigames with cosmetics & PvP|https://topeaglerservers.com/img/hyper-icon.png|Survival,PvP,Minigames|1.12.2
-KrypticMC|wss://eagler.krypticmc.net|US‑based Survival, PvP & Minigames|https://topeaglerservers.com/img/krypticmc-icon.png|Survival,PvP,Minigames|1.12.2
-Zentic|wss://zentic.cc|Legacy PvP & Minigames action|https://topeaglerservers.com/img/zentic-icon.png|PvP,Minigames|1.12.2
-ZelzNET|wss://play.zelz.net|Stable Survival & Minigames experience|https://topeaglerservers.com/img/zelznet-icon.png|Survival,Minigames|1.12.2
-ZythMC|wss://<from_servers.eaglercraft.com>|OneBlock, Bedwars & Survival options|https://servers.eaglercraft.com/img/zythmc-icon.png|Oneblock,Bedwars,Survival|1.12.2
-AdderallMC|wss://adderall.ir|New Survival & Oneblock hybrid server|https://servers.eaglercraft.com/img/adderallmc-icon.png|Survival,Oneblock|1.12.2
-EaglerNet|wss://play.eaglernet.net|Survival, Skyblock & classic Oneblock with economy|https://forums.minecraftforge.net/img/eaglernet-icon.png|Survival,Skyblock,Oneblock|1.12.2
