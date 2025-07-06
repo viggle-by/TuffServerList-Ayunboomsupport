@@ -1,1 +1,12 @@
 Tuffnet|wss://tuff.tf|A tuff server|https://cdn.prod.website-files.com/5d7e8885cad5174a2fcb98d7/64933f98a477f02e36a282d1_5eddd950e5cf1ec1fa5c2d83_virtual-influencer-john-pork.jpeg|Survival,Oneblock|1.12.2
+NexoX|wss://nexo-app.net|Popular Eagler server with Survival, PvP & Minigames|https://topeaglerservers.com/img/nexox-icon.png|Survival,PvP,Minigames|1.12.2
+ArchMC|wss://mc.arch.lol|Largest network with Oneblock, Survival, Creative, PvP|https://topeaglerservers.com/img/archmc-icon.png|Survival,Creative,PvP,Minigames,Oneblock|1.12.2
+CarrotCraft Network|wss://eagler.carrot-craft.org|Classic Survival & Skyblock—1.12.2 focused|https://topeaglerservers.com/img/carrotcraft-icon.png|Survival,Skyblock|1.12.2
+WebMC|wss://play.webmc.fun|Oneblock-focused server with extra minigame modes|https://topeaglerservers.com/img/webmc-icon.png|Oneblock,Survival,Minigames|1.12.2
+Hyper Network|wss://eag.hyper-network.net|Survival & Minigames with cosmetics & PvP|https://topeaglerservers.com/img/hyper-icon.png|Survival,PvP,Minigames|1.12.2
+KrypticMC|wss://eagler.krypticmc.net|US‑based Survival, PvP & Minigames|https://topeaglerservers.com/img/krypticmc-icon.png|Survival,PvP,Minigames|1.12.2
+Zentic|wss://zentic.cc|Legacy PvP & Minigames action|https://topeaglerservers.com/img/zentic-icon.png|PvP,Minigames|1.12.2
+ZelzNET|wss://play.zelz.net|Stable Survival & Minigames experience|https://topeaglerservers.com/img/zelznet-icon.png|Survival,Minigames|1.12.2
+ZythMC|wss://<from_servers.eaglercraft.com>|OneBlock, Bedwars & Survival options|https://servers.eaglercraft.com/img/zythmc-icon.png|Oneblock,Bedwars,Survival|1.12.2
+AdderallMC|wss://adderall.ir|New Survival & Oneblock hybrid server|https://servers.eaglercraft.com/img/adderallmc-icon.png|Survival,Oneblock|1.12.2
+EaglerNet|wss://play.eaglernet.net|Survival, Skyblock & classic Oneblock with economy|https://forums.minecraftforge.net/img/eaglernet-icon.png|Survival,Skyblock,Oneblock|1.12.2
