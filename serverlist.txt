@@ -1,4 +1,8 @@
-Tuffnet|wss://tuff.tf|A tuff server|https://cdn.prod.website-files.com/5d7e8885cad5174a2fcb98d7/64933f98a477f02e36a282d1_5eddd950e5cf1ec1fa5c2d83_virtual-influencer-john-pork.jpeg|Survival,Oneblock|1.12.2
-ArchMC|wss://mc.arch.lol|Largest network with Oneblock, Survival, Creative, PvP|https://topeaglerservers.com/_next/image?url=%2Fapi%2Fpublic%2Fservers%2Fa745902e%2Ficon.png%3Fq%3D50%26v%3D0&w=128&q=75|Survival,Creative,PvP,Minigames,Oneblock|1.12.2
-WebMC|wss://play.webmc.fun|Oneblock-focused server with extra minigame modes|https://topeaglerservers.com/_next/image?url=%2Fapi%2Fpublic%2Fservers%2F471d7b2b%2Ficon.png%3Fq%3D50%26v%3D1750971094&w=128&q=75|Oneblock,Survival,Minigames|1.12.2
+
+WebMC|wss://play.webmc.fun|Minecraft Oneblock… With a twist!|https://play.webmc.fun/favicon.png%7COneblock%7C|1.12.2
+Shadow Network 2 |wss://play.shadownetwork.shop |A  w server for friends thst just want to meet people and have fun |https://play.shadownetwork.shop/favicon.png/lifesteal, oneblock, boxpvp, skyblock, |1.12.2, 1.8, 1.21.4
 Hyper Network|wss://eag.hyper-network.net|Survival & Minigames with cosmetics & PvP|https://topeaglerservers.com/_next/image?url=%2Fapi%2Fpublic%2Fservers%2F7c6c24ee%2Ficon.png%3Fq%3D50%26v%3D0&w=256&q=75|Survival,PvP,Minigames|1.12.2
+ArchMC|wss://mc.arch.lol|Largest network with Oneblock, Survival, Creative, PvP|https://topeaglerservers.com/_next/image?url=%2Fapi%2Fpublic%2Fservers%2Fa745902e%2Ficon.png%3Fq%3D50%26v%3D0&w=128&q=75|Survival,Creative,PvP,Minigames,Oneblock|1.12.2
+Adventure Islands |wss://adventureislands.brainrotmc.org:25632/|Mostly survival, but more gamemodes coming soon|how do  I add this, I have the image though|Survival,Minigames,PVP|1.12.2
+DylanMC|wss://play.monacoeducation.info|unblocked at every school|https://play.monacoeducation.info/server-icon.png|1.12.2
+Wisterian Anarchy|wss://wisteriasmp.fun| Where Players can Keep the Peace or Disturb it...|https://media.discordapp.net/attachments/1391443100370604173/1391449400529780797/image.png?ex=686c987c&is=686b46fc&hm=4f706e5044494df97158307407d669fbcf2678806d3dff988d6bc61f1218159e&=&format=webp&quality=lossless&width=945&height=945|Anarchy Survival|1.8-1.12.2
