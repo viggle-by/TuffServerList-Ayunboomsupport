@@ -6,3 +6,4 @@ ArchMC|wss://mc.arch.lol|Largest network with Oneblock, Survival, Creative, PvP|
 Adventure Islands |wss://adventureislands.brainrotmc.org:25632/|Mostly survival, but more gamemodes coming soon|how do  I add this, I have the image though|Survival,Minigames,PVP|1.12.2
 DylanMC|wss://play.monacoeducation.info|unblocked at every school|https://play.monacoeducation.info/server-icon.png|1.12.2
 Wisterian Anarchy|wss://wisteriasmp.fun| Where Players can Keep the Peace or Disturb it...|https://media.discordapp.net/attachments/1391443100370604173/1391449400529780797/image.png?ex=686c987c&is=686b46fc&hm=4f706e5044494df97158307407d669fbcf2678806d3dff988d6bc61f1218159e&=&format=webp&quality=lossless&width=945&height=945|Anarchy Survival|1.8-1.12.2
+Nexo|wss://nexomc.org|A 1.21 Server with Practice Survival And More To Come|Icon Will Be Provided Below|Survival,Practice, More soon|1.21.1
