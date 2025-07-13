@@ -1,4 +1,4 @@
-TuffNET|wss://mc.cirsi.us|all compatible minecraft server. chill staff|https://cdn.discordapp.com/icons/1365166496417845308/fc75dffcfcf807c500c7be53805ae9ac.webp |Survival, Oneblock, PVP|1.12.2, 1.21.4, 1.8.8
+TuffNET|wss://tuff.ws|all compatible minecraft server. chill staff|https://cdn.discordapp.com/icons/1365166496417845308/fc75dffcfcf807c500c7be53805ae9ac.webp |Survival, Oneblock, PVP|1.12.2, 1.21.4, 1.8.8
 WebMC|wss://play.webmc.fun|Minecraft Oneblock… With a twist!|https://play.webmc.fun/favicon.png%7COneblock%7C|1.12.2
 Shadow Network 2 |wss://play.shadownetwork.shop |A  w server for friends thst just want to meet people and have fun |https://play.shadownetwork.shop/favicon.png/lifesteal, oneblock, boxpvp, skyblock, |1.12.2, 1.8, 1.21.4
 Hyper Network|wss://eag.hyper-network.net|Survival & Minigames with cosmetics & PvP|https://topeaglerservers.com/_next/image?url=%2Fapi%2Fpublic%2Fservers%2F7c6c24ee%2Ficon.png%3Fq%3D50%26v%3D0&w=256&q=75|Survival,PvP,Minigames|1.12.2
@@ -8,3 +8,4 @@ DylanMC|wss://play.monacoeducation.info|unblocked at every school|https://play.m
 Wisterian Anarchy|wss://ws.wisteriasmp.fun| Where Players can Keep the Peace or Disturb it...|https://media.discordapp.net/attachments/1391443100370604173/1391449400529780797/image.png?ex=686c987c&is=686b46fc&hm=4f706e5044494df97158307407d669fbcf2678806d3dff988d6bc61f1218159e&=&format=webp&quality=lossless&width=945&height=945|Anarchy Survival|1.8-1.12.2
 Nexo|wss://nexomc.org|A 1.21 Server with Practice Survival And More To Come|Icon Will Be Provided Below|Survival,Practice, More soon|1.21.1
 GG SMP|wss://ggsmp.net|see attached image for icon|Economy MMO based survival, more gamemodes in development|1.17.1
+WhopperMC|wss://whopper.burgermap.org|A burger creator|https://icon-url.co|Survival|1.21.5
