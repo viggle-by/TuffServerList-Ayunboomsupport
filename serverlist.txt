@@ -9,3 +9,4 @@ Wisterian Anarchy|wss://ws.wisteriasmp.fun| Where Players can Keep the Peace or 
 Nexo|wss://nexomc.org|A 1.21 Server with Practice Survival And More To Come|Icon Will Be Provided Below|Survival,Practice, More soon|1.21.1
 GG SMP|wss://ggsmp.net|see attached image for icon|Economy MMO based survival, more gamemodes in development|1.17.1
 WhopperMC|wss://whopper.burgermap.org|A burger creator|https://icon-url.co|Survival|1.21.5
+WanderwoodSMP|wss://wanderwood.thatonebot.site|Chill survival with PvP and crossplay| https://cdn.discordapp.com/attachments/1381435037496512637/1397520334470643743/2025-06-30_12.22.20.png?ex=688205bc&is=6880b43c&hm=1731699e7c4acc25ac4fabbb44ae21ecb604015ab7cef8be36789a89da62f9c1& |Survival,PvP,Vanilla|1.21.6
