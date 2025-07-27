@@ -1,6 +1,7 @@
 TuffNET|wss://tuff.ws|all compatible minecraft server. chill staff|https://cdn.discordapp.com/icons/1365166496417845308/fc75dffcfcf807c500c7be53805ae9ac.webp |Survival, Oneblock, PVP|1.12.2, 1.21.4, 1.8.8
 WebMC|wss://play.webmc.fun|Minecraft Oneblock… With a twist!|https://play.webmc.fun/favicon.png%7COneblock%7C|1.12.2
 Shadow Network 2 |wss://play.shadownetwork.shop |A  w server for friends thst just want to meet people and have fun |https://play.shadownetwork.shop/favicon.png/lifesteal, oneblock, boxpvp, skyblock, |1.12.2, 1.8, 1.21.4
+Jonarchy|wss://8b4t.org|1.21.8 Anarchy, Survival, Dupe|https://icon-url.co|1.21.8 Anarchy, Survival, Dupe|1.5.2, 1.8.8, 1.21.8
 Hyper Network|wss://eag.hyper-network.net|Survival & Minigames with cosmetics & PvP|https://topeaglerservers.com/_next/image?url=%2Fapi%2Fpublic%2Fservers%2F7c6c24ee%2Ficon.png%3Fq%3D50%26v%3D0&w=256&q=75|Survival,PvP,Minigames|1.12.2
 ArchMC|wss://mc.arch.lol|Largest network with Oneblock, Survival, Creative, PvP|https://topeaglerservers.com/_next/image?url=%2Fapi%2Fpublic%2Fservers%2Fa745902e%2Ficon.png%3Fq%3D50%26v%3D0&w=128&q=75|Survival,Creative,PvP,Minigames,Oneblock|1.12.2
 Adventure Islands |wss://adventureislands.brainrotmc.org:25632/|Mostly survival, but more gamemodes coming soon|how do  I add this, I have the image though|Survival,Minigames,PVP|1.12.2
@@ -10,4 +11,3 @@ Nexo|wss://nexomc.org|A 1.21 Server with Practice Survival And More To Come|Icon
 GG SMP|wss://ggsmp.net|see attached image for icon|Economy MMO based survival, more gamemodes in development|1.17.1
 WhopperMC|wss://whopper.burgermap.org|A burger creator|https://icon-url.co|Survival|1.21.5
 WanderwoodSMP|wss://wanderwood.thatonebot.site|Chill survival with PvP and crossplay| https://cdn.discordapp.com/attachments/1381435037496512637/1397520334470643743/2025-06-30_12.22.20.png?ex=688205bc&is=6880b43c&hm=1731699e7c4acc25ac4fabbb44ae21ecb604015ab7cef8be36789a89da62f9c1& |Survival,PvP,Vanilla|1.21.6
-Jonarchy|wss://8b4t.org|1.21.8 Anarchy, Survival, Dupe|https://icon-url.co|1.21.8 Anarchy, Survival, Dupe|1.5.2, 1.8.8, 1.21.8
