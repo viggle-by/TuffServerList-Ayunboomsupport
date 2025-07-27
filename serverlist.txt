@@ -11,3 +11,7 @@ Nexo|wss://nexomc.org|A 1.21 Server with Practice Survival And More To Come|Icon
 GG SMP|wss://ggsmp.net|see attached image for icon|Economy MMO based survival, more gamemodes in development|1.17.1
 WhopperMC|wss://whopper.burgermap.org|A burger creator|https://icon-url.co|Survival|1.21.5
 WanderwoodSMP|wss://wanderwood.thatonebot.site|Chill survival with PvP and crossplay| https://cdn.discordapp.com/attachments/1381435037496512637/1397520334470643743/2025-06-30_12.22.20.png?ex=688205bc&is=6880b43c&hm=1731699e7c4acc25ac4fabbb44ae21ecb604015ab7cef8be36789a89da62f9c1& |Survival,PvP,Vanilla|1.21.6
+Steve SMP|wss://eagler.stevesmp.us|a fun server|https://icon-url.co|Survival,Oneblock, Skyblock|1.12.2-1.21.5
+Cheeseburgere|wss://cburger.net|A Cheesey server|igtoolongtopost|Skyblock,Lifesteal,PVP|1.8.8-1.21.5
+RagePvP Network|wss://ragepvp.net|A Next-Gen Modern Network|https://www.ragepvp.net/storage/img/favicon.png|Survival, Practice, Skyblock, HCF & Prison|1.12.2
+Voidsent MC|wss://mc.voidsent.net|#2 Eaglercraft Server|Survival,Practice,VanillaPvP,Factions|1.8-1.21
