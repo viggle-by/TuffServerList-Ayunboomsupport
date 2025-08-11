@@ -11,7 +11,6 @@ GG SMP|wss://ggsmp.net|see attached image for icon|Economy MMO based survival, m
 WhopperMC|wss://whopper.burgermap.org|A burger creator|https://icon-url.co|Survival|1.21.5
 WanderwoodSMP|wss://wanderwood.thatonebot.site|Chill survival with PvP and crossplay| https://cdn.discordapp.com/attachments/1381435037496512637/1397520334470643743/2025-06-30_12.22.20.png?ex=688205bc§is=6880b43c§hm=1731699e7c4acc25ac4fabbb44ae21ecb604015ab7cef8be36789a89da62f9c1§ |Survival,PvP,Vanilla|1.21.6
 Steve SMP|wss://eagler.stevesmp.us|a fun server|https://icon-url.co|Survival,Oneblock, Skyblock|1.12.2-1.21.5
-Cheeseburgere|wss://cburger.net|A Cheesey server|igtoolongtopost|Skyblock,Lifesteal,PVP|1.8.8-1.21.5
 RagePvP Network|wss://ragepvp.net|A Next-Gen Modern Network|https://www.ragepvp.net/storage/img/favicon.png|Survival, Practice, Skyblock, HCF § Prison|1.12.2
 Voidsent MC|wss://mc.voidsent.net|#2 Eaglercraft Server|Survival,Practice,VanillaPvP,Factions|1.8-1.21
 CastersMC|wss://mc.castersmc.org|CastersMC - Fight - Survive - Legacy| https://cdn.discordapp.com/attachments/1222951524796334080/1403078942201479329/2025_08_07_0np_Kleki.png?ex=68963e97§is=6894ed17§hm=fa140362fb3705848f64065f64099a7723df67d857b6e5c1995147bb62ee9cf2§ | Survival, Lifesteal|1.12-1.21
