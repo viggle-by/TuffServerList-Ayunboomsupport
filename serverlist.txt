@@ -3,8 +3,8 @@ WebMC|wss://play.webmc.fun|Minecraft Oneblock… With a twist!|https://play.webm
 Shadow Network 2 |wss://play.shadownetwork.shop |A  w server for friends thst just want to meet people and have fun |https://play.shadownetwork.shop/favicon.png/lifesteal, oneblock, boxpvp, skyblock, |1.12.2, 1.8, 1.21.4
 Jonarchy|wss://8b4t.org|1.21.8 Anarchy, Survival, Dupe|https://icon-url.co|1.21.8 Anarchy, Survival, Dupe|1.5.2, 1.8.8, 1.21.8
 Hyper Network|wss://eag.hyper-network.net|Survival § Minigames with cosmetics § PvP|https://topeaglerservers.com/_next/image?url=%2Fapi%2Fpublic%2Fservers%2F7c6c24ee%2Ficon.png%3Fq%3D50%26v%3D0§w=256§q=75|Survival,PvP,Minigames|1.12.2
-&4&l       &oNEXO&f&l&oMC &4&l&k | wss://nexomc.org | A 1.21 Server with Practice Survival And More To Come | Icon Will Be Provided Below |Survival,Practice, More soon |&f 1.8-1.21.5 &4&l&k
-Adventure Islands |wss://adventureislands.brainrotmc.org:25632/|Mostly survival, but more gamemodes coming soon|how do  I add this, I have the image though|&4&l3 GAMEMODES Survival,Minigames,PVP|1.12.2
+§4§l       §oNEXO§f§l§oMC §4§l§k | wss://nexomc.org | A 1.21 Server with Practice Survival And More To Come | Icon Will Be Provided Below |Survival,Practice, More soon |§f 1.8-1.21.5 §4§l§k
+Adventure Islands |wss://adventureislands.brainrotmc.org:25632/|Mostly survival, but more gamemodes coming soon|how do  I add this, I have the image though|§4§l3 GAMEMODES Survival,Minigames,PVP|1.12.2
 DylanMC|wss://play.monacoeducation.info|unblocked at every school|https://play.monacoeducation.info/server-icon.png|1.12.2
 Wisterian Anarchy|wss://ws.wisteriasmp.fun| Where Players can Keep the Peace or Disturb it...|https://media.discordapp.net/attachments/1391443100370604173/1391449400529780797/image.png?ex=686c987c§is=686b46fc§hm=4f706e5044494df97158307407d669fbcf2678806d3dff988d6bc61f1218159e§=§format=webp§quality=lossless§width=945§height=945|Anarchy Survival|1.8-1.12.2
 GG SMP|wss://ggsmp.net|see attached image for icon|Economy MMO based survival, more gamemodes in development|1.17.1
@@ -14,4 +14,4 @@ Steve SMP|wss://eagler.stevesmp.us|a fun server|https://icon-url.co|Survival,One
 Cheeseburgere|wss://cburger.net|A Cheesey server|igtoolongtopost|Skyblock,Lifesteal,PVP|1.8.8-1.21.5
 RagePvP Network|wss://ragepvp.net|A Next-Gen Modern Network|https://www.ragepvp.net/storage/img/favicon.png|Survival, Practice, Skyblock, HCF § Prison|1.12.2
 Voidsent MC|wss://mc.voidsent.net|#2 Eaglercraft Server|Survival,Practice,VanillaPvP,Factions|1.8-1.21
-CastersMC|wss://mc.castersmc.org|CastersMC - Fight - Survive - Legacy| https://cdn.discordapp.com/attachments/1222951524796334080/1403078942201479329/2025_08_07_0np_Kleki.png?ex=68963e97&is=6894ed17&hm=fa140362fb3705848f64065f64099a7723df67d857b6e5c1995147bb62ee9cf2& | Survival, Lifesteal|1.12-1.21
+CastersMC|wss://mc.castersmc.org|CastersMC - Fight - Survive - Legacy| https://cdn.discordapp.com/attachments/1222951524796334080/1403078942201479329/2025_08_07_0np_Kleki.png?ex=68963e97§is=6894ed17§hm=fa140362fb3705848f64065f64099a7723df67d857b6e5c1995147bb62ee9cf2§ | Survival, Lifesteal|1.12-1.21
