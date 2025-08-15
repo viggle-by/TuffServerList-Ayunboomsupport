@@ -1,6 +1,7 @@
 §6TuffNET|wss://tuff.ws|all compatible minecraft server. chill staff|https://cdn.discordapp.com/icons/1365166496417845308/fc75dffcfcf807c500c7be53805ae9ac.webp |Survival, Oneblock, PVP|1.12.2, 1.21.4, 1.8.8
 §6§l§oRagePvP Network|wss://ragepvp.net|A Next-Gen Modern Network|https://www.ragepvp.net/storage/img/favicon.png|Survival, Practice, Skyblock, HCF § Prison|1.12.2
 §4§l§oNEXO§f§l§oMC §4§l§k |wss://nexomc.org| A 1.21 Server with Practice Survival And More To Come | Icon Will Be Provided Below |Survival,Practice, More soon |§f 1.8-1.21.5 §4§l§k\
+§4Cheeseburgere|wss://play.cburger.net|A Cheesey server|igtoolongtopost|Skyblock,Lifesteal,PVP|1.8.8-1.21.5
 DylanMC|wss://play.monacoeducation.info|unblocked at every school|https://play.monacoeducation.info/server-icon.png|1.12.2
 GG SMP|wss://ggsmp.net|see attached image for icon|Economy MMO based survival, more gamemodes in development|1.17.1
 WebMC|wss://play.webmc.fun|Minecraft Oneblock… With a twist!|https://play.webmc.fun/favicon.png%7COneblock%7C|1.12.2
