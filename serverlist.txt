@@ -12,8 +12,8 @@ WhopperMC|wss://whopper.burgermap.org|A burger creator|https://icon-url.co|Survi
 Hyper Network|wss://eag.hyper-network.net|Survival § Minigames with cosmetics § PvP|https://topeaglerservers.com/_next/image?url=%2Fapi%2Fpublic%2Fservers%2F7c6c24ee%2Ficon.png%3Fq%3D50%26v%3D0§w=256§q=75|Survival,PvP,Minigames|1.12.2
 
 WanderwoodSMP|wss://wanderwood.thatonebot.site|Chill survival with PvP and crossplay| https://cdn.discordapp.com/attachments/1381435037496512637/1397520334470643743/2025-06-30_12.22.20.png?ex=688205bc§is=6880b43c§hm=1731699e7c4acc25ac4fabbb44ae21ecb604015ab7cef8be36789a89da62f9c1§ |Survival,PvP,Vanilla|1.21.6
-Steve SMP|wss://eagler.stevesmp.us|a fun server|https://icon-url.co|Survival,Oneblock, Skyblock|1.12.2-1.21.5
 Voidsent MC|wss://mc.voidsent.net|#2 Eaglercraft Server|Survival,Practice,VanillaPvP,Factions|1.8-1.21
 CastersMC|wss://mc.castersmc.org|CastersMC - Fight - Survive - Legacy| https://cdn.discordapp.com/attachments/1222951524796334080/1403078942201479329/2025_08_07_0np_Kleki.png?ex=68963e97§is=6894ed17§hm=fa140362fb3705848f64065f64099a7723df67d857b6e5c1995147bb62ee9cf2§ | Survival, Lifesteal|1.12-1.21
 Shadow Network 2 |wss://play.shadownetwork.shop |A  w server for friends thst just want to meet people and have fun |https://play.shadownetwork.shop/favicon.png/lifesteal, oneblock, boxpvp, skyblock, |1.12.2, 1.8, 1.21.4
 Jonarchy|wss://8b4t.org|1.21.8 Anarchy, Survival, Dupe|https://icon-url.co|1.21.8 Anarchy, Survival, Dupe|1.5.2, 1.8.8, 1.21.8
+Steve SMP|wss://eagler.stevesmp.us|a fun server|https://icon-url.co|Survival,Oneblock, Skyblock|1.12.2-1.21.5
