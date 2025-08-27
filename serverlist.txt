@@ -18,4 +18,4 @@ CastersMC|wss://mc.castersmc.org|CastersMC - Fight - Survive - Legacy| https://c
 Shadow Network 2 |wss://play.shadownetwork.shop |A  w server for friends thst just want to meet people and have fun |https://play.shadownetwork.shop/favicon.png/lifesteal, oneblock, boxpvp, skyblock, |1.12.2, 1.8, 1.21.4
 Jonarchy|wss://8b4t.org|1.21.8 Anarchy, Survival, Dupe|https://icon-url.co|1.21.8 Anarchy, Survival, Dupe|1.5.2, 1.8.8, 1.21.8
 DylanMC|wss://play.monacoeducation.info|unblocked at every school|https://play.monacoeducation.info/server-icon.png|1.12.2
-Steve SMP|wss://eagler.stevesmp.us|a fun server|https://icon-url.co|Survival,Oneblock, Skyblock|1.12.2-1.21.5
+Steve SMP|wss://eagler.stevesmp.us|a fun server|https://icon-url.co|Survival,Oneblock, Skyblock|1.12.2-1.21.5 |Ayunboom|wss://ayunboom.shhnowisnottheti.me
